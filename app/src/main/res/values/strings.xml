@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LiveDataBinding</string>
+    <string name="delete">Delete</string>
+    <string name="tab_text_1">1</string>
+    <string name="tab_text_2">2</string>
+    <string name="tab_text_3">3</string>
+    <string name="tab_text_4">4</string>
+</resources>
